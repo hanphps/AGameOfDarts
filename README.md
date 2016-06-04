@@ -3,6 +3,6 @@ Presented at Critical Thinking Conference at EGSC 2016. CS1302 MidTerm project.
 
 Joint Project 
 
-Head Developer: Hannah
+Lead Developer: Hannah
 
 Developer: Derrick 
