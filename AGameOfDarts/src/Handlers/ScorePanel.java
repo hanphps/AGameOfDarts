@@ -1,24 +1,13 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
+
 package Handlers;
 
 import java.awt.Frame;
 import java.util.ArrayList;
 
-/**
- *
- * @author Hannah
- * 
- */
 public class ScorePanel extends javax.swing.JFrame {
 
     public ScoreHandler sHandler;
-    /**
-     * Creates new form ScorePanel
-     */
+
     public ScorePanel() {
         sHandler = new ScoreHandler();
         parseTable();
